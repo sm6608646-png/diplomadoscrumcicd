@@ -5,5 +5,5 @@
     "build": "echo 'Compilando aplicación...'",
     "test": "echo 'Ejecutando pruebas...' && exit 0"
   },
-  "dependencies": {}
+  "dependencies": {8}
 }
