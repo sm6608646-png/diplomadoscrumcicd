@@ -32,7 +32,7 @@ jobs:
         run: npm install
 
       - name: Ejecutar pruebas
-        run: npm tet
+        run: npm test
 
   deploy:
     runs-on: ubuntu-latest
